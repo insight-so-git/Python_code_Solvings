@@ -1,4 +1,7 @@
+'''
+Different styles of print statements
 
+'''
 s1 = "Tesco"
 
 for each in s1:
